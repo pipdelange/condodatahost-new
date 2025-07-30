@@ -6,5 +6,5 @@ IF NOT EXIST .git (
 )
 git add -A
 git commit -m "Update site content"
-git push -u origin main --force
+git push -u origin master --force
 pause
