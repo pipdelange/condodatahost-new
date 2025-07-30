@@ -5,6 +5,7 @@ publishedAt: "2024-10-15"
 updatedAt: "2024-10-20"
 slug: "hb-913-condo-law"
 author: "CondoDataHost Editorial"
+ogImage: "/images/hb913-og.png"
 seo:
   title: "Complying with HB 913 – Florida's New Condo Records Law"
   description: "Condo boards must act now to avoid penalties. HB 913 sets strict deadlines for online document posting. Here's what you need to know."
